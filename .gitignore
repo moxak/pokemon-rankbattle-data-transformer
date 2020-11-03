@@ -1,7 +1,7 @@
 dev/
 docs/Qiita1.md
 docs/images/
-! docs/images/gif2.gif
+!/.docs/images/gif2.gif
 node_modules/
 package-lock.json
 output/
