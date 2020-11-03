@@ -1,5 +1,7 @@
 # Pokemon Rankbattle Data Transformer
 
+<img alt="GitHub" src="https://img.shields.io/github/license/moxak/pokemon-rankbattle-data-transformer"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/moxak/pokemon-rankbattle-data-transformer">
+
 ## 概要
 
 ポケモン剣盾のランクバトルの集計データをウェブ上から取得し、表示しやすいように整形するプログラムです。
@@ -8,7 +10,15 @@
 
 ## 使い方
 
-プログラムの動作に必要となるパッケージをインストールします。
+**0. Python(version >= 3.7)が入っていない場合、**
+
+```bash
+$ sudo apt-get install python3.7
+```
+
+もしくは、[Python.org](https://www.python.org/)から落としてインストールしてください。また`pip`のpathが通っている状態にしてください。
+
+**1. プログラムの動作に必要となるパッケージをインストールします。**
 
 ```bash
 $ pip install -r requirements.txt
@@ -24,7 +34,7 @@ tqdm
 urllib3
 ```
 
-以下を実行すると整形されたcsvファイルが`resources`と`output`に出力されます。
+**2. 以下を実行して整形されたcsvファイルを`resources`と`output`に出力します**
 
 ```bash
 $ python main.py [-d Boolean]
@@ -40,7 +50,7 @@ $ python main.py [-d Boolean]
 
 ## License
 
-MIT 
+MIT
 
 --------
 
