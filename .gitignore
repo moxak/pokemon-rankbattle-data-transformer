@@ -1,0 +1,12 @@
+dev/
+docs/
+node_modules/
+package-lock.json
+output/
+resources/
+datachunk/function.js
+datachunk/bundle.js
+datachunk/bundle_en.json
+pokesprite/
+log
+*.hyper

@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######
+pandas
+scikit-learn
+tqdm
+urllib3

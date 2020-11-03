@@ -1,0 +1,39 @@
+{
+    "temoti_split_order": {
+        "method1": "temoti",
+        "column": {
+            "waza": "採用率の高い技",
+            "pokemon": "併用率の高いポケモン",
+            "tokusei": "採用率の高い特性",
+            "motimono": "採用率の高い持ち物"
+        },
+        "file_names": {
+            "waza": "ALL_SEASON_TEMOTI_MOVE.csv",
+            "pokemon": "ALL_SEASON_TEMOTI_POKEMON.csv",
+            "tokusei": "ALL_SEASON_TEMOTI_ABILITY.csv",
+            "motimono": "ALL_SEASON_TEMOTI_HELDITEM.csv"
+        }
+    },
+    "win_split_order": {
+        "method1": "win",
+        "column": {
+            "waza": "倒した技",
+            "pokemon": "倒したポケモン"
+        },
+        "file_names": {
+            "waza": "ALL_SEASON_WIN_MOVE.csv",
+            "pokemon": "ALL_SEASON_WIN_POKEMON.csv"
+        }
+    },
+    "lose_split_order": {
+        "method1": "lose",
+        "column": {
+            "waza": "倒された技",
+            "pokemon": "倒されたポケモン"
+        },
+        "file_names": {
+            "waza": "ALL_SEASON_LOSE_MOVE.csv",
+            "pokemon": "ALL_SEASON_LOSE_POKEMON.csv"
+        }
+    }
+}
