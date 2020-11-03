@@ -34,6 +34,8 @@ $ python main.py [-d Boolean]
 
 ## 出力されたファイルの利用法
 
+![gif](.\docs\images\gif2.gif)
+
 [ポケモン剣盾のランクバトルデータを解析してTableau上で可視化してみた - Qiita](https://qiita.com/b_aka/items/7d2b768dfa7817f34fc2) をご覧ください。
 
 ## License
