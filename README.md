@@ -1,6 +1,6 @@
 # Pokemon Rankbattle Data Transformer
 
-<img alt="GitHub" src="https://img.shields.io/github/license/moxak/pokemon-rankbattle-data-transformer"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/moxak/pokemon-rankbattle-data-transformer">
+<img alt="GitHub" src="https://img.shields.io/github/license/moxak/pokemon-rankbattle-data-transformer">
 
 ## 概要
 
