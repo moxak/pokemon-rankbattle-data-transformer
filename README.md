@@ -71,5 +71,5 @@ MIT
 
 --------
 
-moxak Github [@moxak](https://github.com/moxak) Twitter [@moxab_](https://twitter.com/moxak_)
+moxak Github [@moxak](https://github.com/moxak) Twitter [@moxak_](https://twitter.com/moxak_)
 
